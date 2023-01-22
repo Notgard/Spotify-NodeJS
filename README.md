@@ -3,10 +3,10 @@
 ## This is a simple project wich uses NodeJS and React with TailwindCSS to make a working interface displaying results from the Spotify API.
 ### For the most part this includes :
 
+* Connecting to Spotify API
 * Browse Spotify profile settings
 * Song and artist search
 * Get lyrics from selected song (if available)
-<br/>
 
 #### To start project on local (make sure to have npm or yarn installed)
 Install dependecies for the client
