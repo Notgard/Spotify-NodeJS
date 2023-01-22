@@ -1,0 +1,7 @@
+.mainWrapper {
+    @apply bg-black flex flex-col w-screen h-screen align-middle items-center;
+}
+
+.title {
+    @apply text-lime-600 mt-32;
+}

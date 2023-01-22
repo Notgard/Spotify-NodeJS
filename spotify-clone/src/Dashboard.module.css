@@ -1,0 +1,28 @@
+.searchbar {
+  @apply w-full overflow-x-hidden;
+}
+
+.searchWrapper {
+  @apply ml-56 h-full;
+}
+
+.mainWrapper {
+  height: 100vh;
+  @apply bg-indigo-400 w-screen z-50;
+  /*   background: rgb(1,0,23);
+  background: linear-gradient(90deg, rgba(1,0,23,0.9363095580028886) 18%, rgba(21,121,9,1) 70%, rgba(22,182,0,1) 100%); */
+  background: rgb(1, 0, 23);
+  background: linear-gradient(
+    90deg,
+    rgba(1, 0, 23, 0.9363095580028886) 32%,
+    rgba(21, 121, 9, 1) 75%,
+    rgba(20, 163, 0, 1) 100%
+  );
+}
+
+
+.lyricsWrapper {
+  text-align: center;
+  @apply text-lg text-white;
+
+}
